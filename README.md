@@ -1,2 +1,2 @@
 # Francisco-Medina-MachineLearning-Portfolio
-This folder covers the major projects i worked in in class in relation to Machine Learning
+This folder covers the major projects I worked in class in relation to Machine Learning.
