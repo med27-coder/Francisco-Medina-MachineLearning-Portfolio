@@ -12,4 +12,4 @@ The purpose of this project is not to produce perfect code, but to create a port
 
 -to present my overall growth throughout the course
 
-This repository is intended to be something I can continue to build on — a foundation I can show instructors, classmates, and even future employers.
+This repository is intended to be something I can continue to build on a foundation I can show instructors, classmates, and even future employers.
